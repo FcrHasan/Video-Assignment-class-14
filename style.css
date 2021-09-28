@@ -579,13 +579,13 @@ header .button{
 }
 
 .about_section .c1{
-    background-image: url('Image/background4.jpg');
+    background-image: url('./Image/background4.jpg');
 }
 .about_section .c2{
-    background-image: url('Image/background25.jpg');
+    background-image: url('./Image/background25.jpg');
 }
 .about_section .c3{
-    background-image: url('Image/background33.jpg');
+    background-image: url('./Image/background33.jpg');
 }
 .about_section .card .icon{
     font-size: 60px;
